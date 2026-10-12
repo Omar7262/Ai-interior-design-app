@@ -1,0 +1,6 @@
+{
+  "name": "Desing AI - Interior & Architectural AI Design",
+  "description": "AI-powered interior design, architectural floor plans, and exterior visualization studio inspired by Desing AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
